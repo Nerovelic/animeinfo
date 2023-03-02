@@ -17,6 +17,13 @@ una gran cantidad de información es que se diseño Animeinfo.
 
 - Herramientas de busqueda especifica.
 
+### Non-Goals
+
+- No venderemos merchandise como blu-ray de anime.
+
+- No mostramos animes por medios ilegales o que tiene intension de incentivar la práctica.
+
+- No mostraremos contenido para adulto como contenido principal de la pagina.
 
 ## Background
 
