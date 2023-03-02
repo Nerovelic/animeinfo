@@ -1,4 +1,4 @@
-# animeinfo
+# Animeinfo
 
 
 ## Objetivo
@@ -7,7 +7,7 @@ Que y porque estamos haciendo esto?
 
 El Anime como se le conoce al tipo de animacion japonesa, cada dia toma
 mas auge y relevancia fuera del pais nipon. Debido a que el anime tiene
-una gran cantidad de información es que se diseño animeinfo.
+una gran cantidad de información es que se diseño Animeinfo.
 
 ### Objetivos especificos
 
