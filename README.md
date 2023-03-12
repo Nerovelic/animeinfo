@@ -1,6 +1,5 @@
 # Animeinfo
 
-
 ## Objetivo
 
 Que y porque estamos haciendo esto?
@@ -52,3 +51,41 @@ Cubre los cambios principales:
 - Cuales son las nuevas funciones que vas a escribir? - Porque necesitas nuevos componentes? - Hay código que puede ser reusable?
 
 No elabores minuciosamente la implementación.
+
+## Instalación
+
+pip install virtualenv
+
+python -m venv venv
+
+venv\Scripts\activate.bat
+
+    pip install mysql-connector-python
+
+    pip install flask
+
+    flask --app main run
+
+    pip list
+
+## End poins API
+
+1.	https://api.animeinfo.com/v1/anime/{anime-id}
+
+2.	https://api.animeinfo.com/v1/anime/ranking
+
+3.	https://api.animeinfo.com/v1/anime/season/{year}/{season}
+
+4.	https://api.animeinfo.com/v1/anime/search/{title}
+
+5.	https://api.animeinfo.com/v1/anime/characters/{name}
+
+6.	https://api.animeinfo.com/v1/anime/{genre}
+
+7.	https://api.animeinfo.com/v1/anime/rating
+
+8.	https://api.animeinfo.com/v1/anime/recommendations/{anime-id}
+
+9.	https://api.animeinfo.com/v1/anime/status/{start-date}{end-date}
+
+10.	https://api.animeinfo.com/v1/anime/autor/{mangaka}
